@@ -12,6 +12,8 @@ Astroquery.gaia.tap ([https://astroquery.readthedocs.io/en/latest/gaia/gaia.html
 
 Astroquery.utils.tap ([https://astroquery.readthedocs.io/en/latest/utils/tap.html](https://astroquery.readthedocs.io/en/latest/utils/tap.html))
 
+Astroquery.esasky ([http://astroquery.readthedocs.io/en/latest/esasky/esasky.html](http://astroquery.readthedocs.io/en/latest/esasky/esasky.html) also a TAP service)
+
 LSST’s recommended access to images is through Bulter.  Catalog access is less clear.
 
 LSST would like for there to be a robust VO library for accessing their collections (TAP, SODA, etc.)
